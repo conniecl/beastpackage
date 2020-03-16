@@ -494,8 +494,8 @@
     </package>
 
     <package name='StarBEAST2' version='0.14.0'
-            url="https://github.com/conniecl/beastpackage/StarBEAST2.zip"
-            projectURL="https://github.com/conniecl/beastpackage"
+            url="https://github.com/genomescale/starbeast2/releases/download/v0.14.0/StarBEAST2.zip"
+            projectURL="https://github.com/genomescale/starbeast2"
             description="Multispecies coalescent inference using multi-locus and fossil data">
 	<depends on="beast2" atleast="2.4.7"/>
 	<depends on="SA" atleast="1.1.7"/>
